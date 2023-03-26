@@ -3,7 +3,7 @@ Send push notifications to Expo apps using Go
 
 ## Installation
 ```
-go get github.com/ffy/expo-server-sdk-golang/sdk
+go get github.com/ffy/expo-server-sdk-go/sdk
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ package main
 
 import (
     "fmt"
-    expo "github.com/ffy/expo-server-sdk-golang/sdk"
+    expo "github.com/ffy/expo-server-sdk-go/sdk"
 )
 
 func main() {
